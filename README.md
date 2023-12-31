@@ -1,3 +1,10 @@
+**Emiliano Roberti**
+
+This code is to show how paraller routes work in next.js.  This is clearly a step forward from React routing methods, where the file system within next.js becomes the routing system
+
+
+**this is a sampple for creating a layout with 3 components that could be a dashboard view.**
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
